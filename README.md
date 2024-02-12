@@ -1,4 +1,4 @@
-# Hi am Komal 👋
+# Hi 👋
 
 ## Currently a Digital Tutor for Full Stack Web Development.
 
